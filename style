@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FrameWork</title>
+  <style>
+    p {
+    font-size: 24pt;
+    text-shadow: green 0 0 2px;
+   }
+  </style>
+</head>
+<body>
+ <em>Текст под наклоном.</em>
+
+ <p align="center"><em>Данный текст находится в центре сайта.</em></p>
+</body>
+</html>
